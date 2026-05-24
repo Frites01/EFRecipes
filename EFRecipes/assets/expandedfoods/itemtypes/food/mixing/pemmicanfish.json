@@ -15,6 +15,7 @@
         "expandedNutritionPropsByType": {
 			"*-raw": {
 				"game:fat" : {"saturation": 100, "foodcategory": "Protein"},
+				"game:fat-rendered" : {"saturation": 100, "foodcategory": "Protein"},
 				"expandedfoods:lard" : {"saturation": 5, "health":  0.025, "foodcategory": "Protein"},
 				"game:fruit-cranberry" : { "saturation": 45, "foodcategory": "Fruit" },
 				"game:fruit-saguaro" : { "saturation": 45, "health": 0.3, "foodcategory": "Fruit" },
